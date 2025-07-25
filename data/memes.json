@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "memes/meme1.jpg",
+    "caption": "Teacher ne bola code likho, aur main middle finger dikha diya.",
+    "basePrice": 105
+  },
+  {
+    "id": 2,
+    "img": "memes/meme2.jpg",
+    "caption": "Bangali Doraemon spotted in deep sea.",
+    "basePrice": 110
+  },
+  {
+    "id": 3,
+    "img": "memes/meme3.jpg",
+    "caption": "Arey r*ndi, pyaar se bula raha hoon.",
+    "basePrice": 115
+  },
+  {
+    "id": 4,
+    "img": "memes/meme4.jpg",
+    "caption": "Ab isme mai kya he bolu...",
+    "basePrice": 120
+  },
+  {
+    "id": 5,
+    "img": "memes/meme5.jpg",
+    "caption": "Chhi gande log deewar ke peechhe se dekh rahe hain.",
+    "basePrice": 125
+  },
+  {
+    "id": 6,
+    "img": "memes/meme6.jpg",
+    "caption": "Kal aana kal... promise karte karte chale gaye.",
+    "basePrice": 130
+  },
+  {
+    "id": 7,
+    "img": "memes/meme7.jpg",
+    "caption": "Yeh wali ladki toilet me alag level ki hai.",
+    "basePrice": 135
+  },
+  {
+    "id": 8,
+    "img": "memes/meme8.jpg",
+    "caption": "Dekh kya raha hai saale... muh me lega kya?",
+    "basePrice": 140
+  },
+  {
+    "id": 9,
+    "img": "memes/meme9.jpg",
+    "caption": "Jaa potty kr yrr \ud83c\udf39",
+    "basePrice": 145
+  },
+  {
+    "id": 10,
+    "img": "memes/meme10.jpg",
+    "caption": "Itna tez peluga sab bolege billa silai machine chala raha hai.",
+    "basePrice": 150
+  }
+]
